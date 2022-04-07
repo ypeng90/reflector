@@ -1,0 +1,2 @@
+libnet1-dev==1.1.6
+libpcap-dev==1.9.1
